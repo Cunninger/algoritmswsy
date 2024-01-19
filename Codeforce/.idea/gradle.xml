@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Codefore_Competion/A" />
+            <option value="$PROJECT_DIR$/Codefore_Competion/B" />
+            <option value="$PROJECT_DIR$/Codefore_Competion/C" />
+            <option value="$PROJECT_DIR$/Problems/A. Tricky Template" />
+            <option value="$PROJECT_DIR$/Problems/B. Forming Triangles" />
+            <option value="$PROJECT_DIR$/Problems/C. Closest Cities" />
+            <option value="$PROJECT_DIR$/Problems/D. Berserk Monsters" />
+            <option value="$PROJECT_DIR$/Problems/E. Increasing Subsequences" />
+            <option value="$PROJECT_DIR$/Problems/F. Replace on Segment" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

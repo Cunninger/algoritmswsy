@@ -1,0 +1,17 @@
+type: codeforces
+title: Educational Codeforces Round 161 (Rated for Div. 2)
+language: English
+summary: |-
+  A. Tricky Template
+  B. Forming Triangles
+  C. Closest Cities
+  D. Berserk Monsters
+  E. Increasing Subsequences
+  F. Replace on Segment
+programming_language: Java
+programming_language_version: 8
+content:
+  - Problems161Div2
+end_date_time: 1705595700.000000000
+program_type_id: 36
+mode: Study

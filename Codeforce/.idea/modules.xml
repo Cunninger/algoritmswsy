@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codeforce.iml" filepath="$PROJECT_DIR$/.idea/modules/Codeforce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Codeforce.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Codeforce.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Codeforce.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Codeforce.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Codeforce.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Codeforce.util.test.iml" />
+    </modules>
+  </component>
+</project>

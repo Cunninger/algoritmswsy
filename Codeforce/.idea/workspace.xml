@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebd959b8-6446-48ea-a421-0e34f42486a9" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/algoritms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACMrule/_scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codeforce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/A/Codeforce.Codefore_Competion-A.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/B/Codeforce.Codefore_Competion-B.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Codefore_Competion/C/Codeforce.Codefore_Competion-C.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A. Tricky Template/Codeforce.Problems-A._Tricky_Template.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/B. Forming Triangles/Codeforce.Problems-B._Forming_Triangles.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/C. Closest Cities/Codeforce.Problems-C._Closest_Cities.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/D. Berserk Monsters/Codeforce.Problems-D._Berserk_Monsters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/E. Increasing Subsequences/Codeforce.Problems-E._Increasing_Subsequences.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/F. Replace on Segment/Codeforce.Problems-F._Replace_on_Segment.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Codeforce.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Codeforce.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Codeforce.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Agreen_gold_dogarrayandpermutation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayMerge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BGameWithArrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/A/A.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/A/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/B/B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/B/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/C/C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/C/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/Codefore_Competion1922.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/out/production/A/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codefore_Competion/out/production/A/QuickInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeItZero/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/None.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1873GABBCorBACB/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_907test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1218/UnionFind_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1218/abc333tasksabc333_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1218/abc333tasksabc333_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1218/problem1620A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HDUOJ/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HDUOJ/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HDUOJ/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HDUOJ/bigsnow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luoguquestion/sortStruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luoguquestion/tackleStringclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luoguquestion/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luoguquestion/test_f.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algoritmsbasic2020/Code01_Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/Code04_LargestComponentSizebyCommonFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/Code04_TopKSumCrossTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/Code04_TopKSumCrossTwoArrays_Set_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/Code05_Split4Parts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/Code06_LongestNoRepeatSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/expressionWantValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/expressionWantValue_dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/maxEor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/minPatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/minSplitToPCnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/mostEorCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camp05/wordMinPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWorktest/Gray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWorktest/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWorktest/meetingArrage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWorktest/processToMinInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWorktest/unionSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../draft/javacode01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../draft/xorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../languageSugar/Sugar_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/bestTimeBuySell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/earliestBlossomTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/leftFirstBiggerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/leftFirstBiggerNumer_Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/minSpiltTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/monotonicStack/leftAndRightMostBiggerNumber_revoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_daily/timeToSeeFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_weeklycompetion/beautifulTower364_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_weeklycompetion/competion367test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newKeCompetition/evenDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newKeCompetition/test02/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\MAVEN_home\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2bAr3im9Ks3N9WNUnZalQyMQSfB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/github克隆文件/halo-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "show.inlinked.gradle.project.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-6064fd94" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ebd959b8-6446-48ea-a421-0e34f42486a9" name="更改" comment="" />
+      <created>1705668527277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705668527277</updated>
+      <workItem from="1705668545944" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
