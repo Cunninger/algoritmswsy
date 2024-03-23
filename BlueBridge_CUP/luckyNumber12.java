@@ -23,7 +23,7 @@ public class luckyNumber12 {
                     sum2 += arr[k];
                 }
                 return sum1 == sum2;
-                //
+                ////
             }
             //
             return false;
