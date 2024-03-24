@@ -5,41 +5,24 @@ import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.*;
 
-public class Main {
-    public static void main(String[] args) {
-        QuickInput in = new QuickInput();
+public class Main{
+    public static void main(String[] args){
+         QuickInput in = new  QuickInput();
         PrintWriter out = new PrintWriter(System.out);
-        char[] str = new char[26];
-        char[] ss = new char[(int) 1e5 + 1];
-        for (int i = 0; i < 26; i++) {
-            str[i] = (char) ('a' - 0 + i);
-
-        }
-
         int n = in.nextInt();
         int k = in.nextInt();
-
-        int uu = 0;
+        char[]str = new char[n];
         for (int i = 0; i < n; i++) {
-            ss[uu++] = str[i % 26];
+            str[i]= (char) ('a'+i%26);
+//            System.out.print(str[i]);
         }
-        int cc = 0;
-        int a =
-        for (int i = 1; i < 1000; i++) {
-            if (i * (i - 1) == 2 * k) {
-                cc = i;
-                break;
-            }
+        int ans = 0;
+        for (int i = 0; ; i+=2) {
+            if (ans==k)break;
+            str[i] = str[i+1];
+            ans++;
         }
-
-
-        for (int i = 0; i < cc; i++) {
-            ss[i] = 'o';
-        }
-
-        for (int i = 0; i < n; i++) {
-            out.print(ss[i]);
-        }
+        System.out.println(new String(str));
 
 
         out.close();
@@ -48,50 +31,42 @@ public class Main {
 }
 
 
-class QuickInput {
+class  QuickInput
+{
     BufferedReader buf;
     StringTokenizer tok;
-
-    QuickInput() {
+     QuickInput(){
         buf = new BufferedReader(new InputStreamReader(System.in));
     }
-
-    boolean hasNext() {
-        while (tok == null || !tok.hasMoreElements()) {
-            try {
+    boolean hasNext(){
+        while(tok == null || !tok.hasMoreElements()){
+            try{
                 tok = new StringTokenizer(buf.readLine());
-            } catch (Exception e) {
+            }catch(Exception e){
                 return false;
             }
         }
         return true;
     }
-
-    String next() {
-        if (hasNext()) return tok.nextToken();
+    String next(){
+        if(hasNext()) return tok.nextToken();
         return null;
     }
-
-    int nextInt() {
+    int nextInt(){
         return Integer.parseInt(next());
     }
-
-    long nextLong() {
+    long nextLong(){
         return Long.parseLong(next());
     }
-
-    double nextDouble() {
+    double nextDouble(){
         return Double.parseDouble(next());
     }
-
-    BigInteger nextBigInteger() {
+    BigInteger nextBigInteger(){
         return new BigInteger(next());
     }
-
-    BigDecimal nextBigDecimal() {
+    BigDecimal nextBigDecimal(){
         return new BigDecimal(next());
     }
-
     String nextLine() {
         try {
             return buf.readLine();
